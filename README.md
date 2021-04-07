@@ -22,7 +22,9 @@ Before any data analysis or visualization could begin, we needed to load, read, 
 
 ## Summary:
 Upon initial results when looking at the Summary DataFrame line graph provided above. Pyber might think the company is wasting its time providing drivers in *Rural* areas as the number of rides and drivers are on average 3 to 6 times lower than *Urban* or *Suburban* areas. See box plots below. 
-![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig2.png) ![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig4.png)
+
+![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig2.png) 
+![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig4.png)
 
 1.	Looking at the *”Average Fare per Ride”* column of the Summary DataFrame, you can see that *Rural* areas on average have larger fares per ride than the other two city types. See image below
 
@@ -32,6 +34,6 @@ Upon initial results when looking at the Summary DataFrame line graph provided a
 
 
 3.	The *”Urban”* city type reveals an outliner for ride count data that might skew the data set (see below plot).
-![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig3.png)
+![](https://github.com/Apollo619/PyBer_Analysis/blob/main/Analysis/Fig2.png)
 
 When looking that the overall data and plots it’s important for the company to keep these observations in mind when deciding how to improve affordability and access. 
